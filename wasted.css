@@ -28,6 +28,29 @@ p {
 	transform-style: preserve-3d;
 }
 
+a {
+	font-size: small;
+}
+
+a:link {
+  color: #a7dba2;
+}
+
+
+a:visited {
+  color: #83a880;
+}
+
+
+a:hover {
+  color: #496e45;
+}
+
+
+a:active {
+  color: #43803c;
+}
+
 span {
 	display: inline-block;
 	

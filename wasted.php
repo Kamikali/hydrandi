@@ -7,9 +7,8 @@
     <link rel="stylesheet" href="./wasted.css">
   </head>
   <body>
-	<a href="index.php">Hier geht es zurueck zur Hauptseite :)</a>
 		<p>Wasting your time.</p>
-	
+	<a href="index.php">Hier geht es zurueck zur Hauptseite :)</a>
 	<div style="visibility:hidden">
 		<audio autoplay loop>
 		<source src="./content/wastingmytime.mp3" type="audio/mpeg">
