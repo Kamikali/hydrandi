@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./wasted.css">
   </head>
   <body>
+	<a href="index.php">Hier geht es zurueck zur Hauptseite :)</a>
 		<p>Wasting your time.</p>
 	
 	<div style="visibility:hidden">
