@@ -9,5 +9,6 @@
 	<a href="adrian.php">Hier geht es zu Adrians Bildergallerie :)</a>
 	<img src="hydrandi.png">
 	<img src="hydrandi.png">
+	<a href="wasted.php">Find out the truth. </a>
 </body>
 </html>
